@@ -1,4 +1,4 @@
-module github.com/hajimehoshi/ebiten
+module github.com/jgoc/ebiten
 
 go 1.12
 
